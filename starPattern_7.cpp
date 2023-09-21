@@ -24,9 +24,9 @@ void pattern7(int n)
     }
 }
 
-int main()
-{
-    pattern7(5);
-    cout << "hi";
-    return 0;
-}
+// int main()
+// {
+//     pattern7(5);
+//     cout << "hi";
+//     return 0;
+// }
